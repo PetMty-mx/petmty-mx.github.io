@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "mx.petmty.app",
+    "sha256_cert_fingerprints": ["C0:A5:91:FD:06:F7:FF:53:28:1C:2B:FF:A4:6D:1C:5B:B5:05:7D:11:93:C8:44:D5:CD:0F:4A:9A:BE:A5:BA:23"]
+  }
+}]
