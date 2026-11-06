@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "mx.petmty.app",
-    "sha256_cert_fingerprints": ["C0:A5:91:FD:06:F7:FF:53:28:1C:2B:FF:A4:6D:1C:5B:B5:05:7D:11:93:C8:44:D5:CD:0F:4A:9A:BE:A5:BA:23"]
+    "sha256_cert_fingerprints": [
+      "EA:25:6D:19:C8:BE:56:18:3E:95:B2:CD:91:BF:F5:AF:63:50:4A:AE:C0:6E:92:69:B7:31:8E:6D:D3:A6:FD:95",
+      "C0:A5:91:FD:06:F7:FF:53:28:1C:2B:FF:A4:6D:1C:5B:B5:05:7D:11:93:C8:44:D5:CD:0F:4A:9A:BE:A5:BA:23"
+    ]
   }
 }]
